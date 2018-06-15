@@ -1,0 +1,4 @@
+export const requestTableTypes = {
+  UPDATE_REIMBURSEMENT: 'UPDATE_REIMBURSEMENT',
+  UPDATE_STATUS: 'UPDATE_STATUS'
+}
